@@ -8,6 +8,7 @@
           <span>Get Records using the below API link:</span><br />
           <span>https://api.jlipreso.com/miit/public/api/user/getAll</span>
         </p>
+
         <div class="card">
           <div class="card-body">
             <button class="btn btn-primary" @click="getRecord()">
