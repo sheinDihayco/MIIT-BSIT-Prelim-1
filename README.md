@@ -1,2 +1,0 @@
-# MIIT-BSIT-Prelim
- 

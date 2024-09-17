@@ -64,7 +64,7 @@ export default {
       );
       Swal.fire({
         title: 'Successful',
-        text: 'Updated Successfully',
+        text: 'Age Updated Successfully',
         icon: 'success',
       });
       this.users = response.data;

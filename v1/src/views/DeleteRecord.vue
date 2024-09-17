@@ -55,7 +55,7 @@ export default {
       );
       Swal.fire({
         title: 'Successful',
-        text: 'Deleted Successfully',
+        text: 'Record Deleted Successfully',
         icon: 'success',
       }).then(async () => {
         this.id = 0;
