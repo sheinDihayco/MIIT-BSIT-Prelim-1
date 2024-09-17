@@ -33,7 +33,6 @@
                   </td>
                 </tr>
                 <tr>
-                  <td></td>
                   <td>
                     <button
                       class="btn btn-primary w-100"

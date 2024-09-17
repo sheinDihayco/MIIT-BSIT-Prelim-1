@@ -37,6 +37,7 @@
     </div>
   </div>
 </template>
+
 <script lang="ts">
 import axios from 'axios';
 import Sidebar from '@/components/Sidebar.vue';
